@@ -6,6 +6,8 @@ Clean Exit adds a workspace to Hermes Desktop. Start tracking one local folder b
 
 **0.1.0 · Windows with a local Hermes backend · Hermes 0.23.1+ · [MIT](LICENSE)**
 
+![Clean Exit after restoring the outline, with two files still archived](docs/restore.png)
+
 ## Install
 
 Install into the Hermes profile you use in Desktop.
