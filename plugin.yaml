@@ -1,0 +1,10 @@
+manifest_version: 2
+name: clean-exit
+version: 0.1.0
+description: Review the new files one Hermes run wrote to a folder you chose, archive the scratch ones and restore any of them later.
+requires_hermes: ">=0.23.1"
+provides_tools: []
+provides_hooks:
+  - pre_tool_call
+  - post_tool_call
+capabilities: []
